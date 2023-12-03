@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Neon_flakes_assignment_frontend/static/css/main.b92a5ad9.css",
+    "main.js": "/Neon_flakes_assignment_frontend/static/js/main.1c8cb565.js",
+    "index.html": "/Neon_flakes_assignment_frontend/index.html",
+    "main.b92a5ad9.css.map": "/Neon_flakes_assignment_frontend/static/css/main.b92a5ad9.css.map",
+    "main.1c8cb565.js.map": "/Neon_flakes_assignment_frontend/static/js/main.1c8cb565.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b92a5ad9.css",
+    "static/js/main.1c8cb565.js"
+  ]
+}
